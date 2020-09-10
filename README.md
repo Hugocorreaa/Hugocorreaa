@@ -1,16 +1,16 @@
-### Hi there 👋
+# Perfil ![neo](https://img.icons8.com/color/48/000000/neo.png)
 
-<!--
-**Hugocorreaa/Hugocorreaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**Meu nome é Hugo e seja bem vindo ao meu GitHub.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![tec](https://img.icons8.com/color/30/000000/satellites.png) Cursando Bacharelado Interdisciplinar em Ciência e Tecnologia **| _UFRN_**
+
+![webdev](https://img.icons8.com/carbon-copy/30/000000/developer.png) Começando a jornada como **_Web Developer_**
+
+|Linguagem  |  Nível de conhecimento  |
+|   :---:      |    :---:     |
+|![Python](https://img.icons8.com/color/29/000000/python.png) | _**Básico**_
+|![HTML5](https://icongr.am/devicon/html5-original-wordmark.svg?size=29&color=currentColor) |
+|![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=29&color=currentColor) |
+|![CSS3](https://icongr.am/devicon/css3-original-wordmark.svg?size=29&color=currentColor) |
