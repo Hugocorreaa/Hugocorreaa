@@ -12,7 +12,6 @@
 
 ![webdev](https://img.icons8.com/carbon-copy/30/000000/developer.png) Começando minha jornada como **_Web Developer_**
  
----
 
 - **Aprendendo**
 
