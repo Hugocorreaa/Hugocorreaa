@@ -1,4 +1,7 @@
-# Oi, Me chamo Hugo Corrêa! ![neo](https://img.icons8.com/color/48/000000/neo.png)                               
+# Oi, Me chamo Hugo Corrêa! ![neo](https://img.icons8.com/color/48/000000/neo.png)
+
+![GitHub followers](https://img.shields.io/github/followers/hugocorreaa?label=Follow&style=social)
+[![HitCount](http://hits.dwyl.com/hugocorreaa/{project}.svg)](http://hits.dwyl.com/hugocorreaa/{project})
 
 
 **Aqui você encontrará meus projetos e estudos que realizei ao longo dos anos.**
@@ -19,5 +22,6 @@
 |![CSS3](https://icongr.am/devicon/css3-original-wordmark.svg?size=29&color=currentColor) |
 
 ---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hugocorreaa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![HitCount](http://hits.dwyl.com/hugocorreaa/{project}.svg)](http://hits.dwyl.com/hugocorreaa/{project})
+
