@@ -1,7 +1,7 @@
 # Oi, Me chamo Hugo Corrêa! ![neo](https://img.icons8.com/color/48/000000/neo.png)
 
 ![GitHub followers](https://img.shields.io/github/followers/hugocorreaa?label=Follow&style=social)
-[![HitCount](http://hits.dwyl.com/hugocorreaa/{project}.svg)](http://hits.dwyl.com/hugocorreaa/{project})
+![visitors](https://visitor-badge.glitch.me/badge?page_id=hugocorreaa.hugocorreaa)
 
 
 **Aqui você encontrará meus projetos e estudos que realizei ao longo dos anos.**
@@ -13,6 +13,8 @@
 ![webdev](https://img.icons8.com/carbon-copy/30/000000/developer.png) Começando a jornada como **_Web Developer_**
 
 ---
+
+* Aprendendo
 
 |Linguagem  |  Nível de conhecimento  |
 |   :---:      |    :---:     |
