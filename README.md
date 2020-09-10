@@ -10,10 +10,12 @@
 
 ![tec](https://img.icons8.com/color/30/000000/satellites.png) Cursando Bacharelado Interdisciplinar em Ciência e Tecnologia **| _UFRN_**
 
-![webdev](https://img.icons8.com/carbon-copy/30/000000/developer.png) Começando a jornada como **_Web Developer_**
+![webdev](https://img.icons8.com/carbon-copy/30/000000/developer.png) Começando minha jornada como **_Web Developer_**
 
 
-# Aprendendo
+
+
+## Aprendendo
 
 |Linguagem  |  Nível de conhecimento  |
 |   :---:      |    :---:     |
