@@ -13,7 +13,7 @@
 ![webdev](https://img.icons8.com/carbon-copy/30/000000/developer.png) Começando a jornada como **_Web Developer_**
 
 
-* Aprendendo
+* **Aprendendo**
 
 |Linguagem  |  Nível de conhecimento  |
 |   :---:      |    :---:     |
