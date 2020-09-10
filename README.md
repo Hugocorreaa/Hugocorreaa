@@ -1,4 +1,5 @@
-# Oi, Me chamo Hugo Corrêa! ![neo](https://img.icons8.com/color/48/000000/neo.png)
+# Oi, Me chamo Hugo Corrêa! ![neo](https://img.icons8.com/color/48/000000/neo.png) 
+
 
 ![GitHub followers](https://img.shields.io/github/followers/hugocorreaa?label=Follow&style=social)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=hugocorreaa.hugocorreaa)
@@ -11,7 +12,6 @@
 
 ![webdev](https://img.icons8.com/carbon-copy/30/000000/developer.png) Começando a jornada como **_Web Developer_**
 
----
 
 * Aprendendo
 
