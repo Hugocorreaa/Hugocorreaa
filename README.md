@@ -3,10 +3,13 @@
 
 **Meu nome é Hugo e seja bem vindo ao meu GitHub. Aqui você encontrará meus projetos e estudos que realizei ao longo dos anos.**
 
+---
 
 ![tec](https://img.icons8.com/color/30/000000/satellites.png) Cursando Bacharelado Interdisciplinar em Ciência e Tecnologia **| _UFRN_**
 
 ![webdev](https://img.icons8.com/carbon-copy/30/000000/developer.png) Começando a jornada como **_Web Developer_**
+
+---
 
 |Linguagem  |  Nível de conhecimento  |
 |   :---:      |    :---:     |
