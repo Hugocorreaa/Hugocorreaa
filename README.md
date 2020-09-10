@@ -1,7 +1,7 @@
 # Perfil ![neo](https://img.icons8.com/color/48/000000/neo.png)
 
 
-**Meu nome é Hugo e seja bem vindo ao meu GitHub.**
+**Meu nome é Hugo e seja bem vindo ao meu GitHub. Aqui você encontrará meus projetos e estudos que realizei ao longo dos anos.**
 
 
 ![tec](https://img.icons8.com/color/30/000000/satellites.png) Cursando Bacharelado Interdisciplinar em Ciência e Tecnologia **| _UFRN_**
