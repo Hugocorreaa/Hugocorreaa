@@ -1,8 +1,7 @@
-# Perfil ![neo](https://img.icons8.com/color/48/000000/neo.png)[![HitCount](http://hits.dwyl.com/hugocorreaa/{project}.svg)](http://hits.dwyl.com/hugocorreaa/{project})
+# Oi, me chamo Hugo Corrêa![neo](https://img.icons8.com/color/48/000000/neo.png)                               
 
 
-
-**Meu nome é Hugo e seja bem vindo ao meu GitHub. Aqui você encontrará meus projetos e estudos que realizei ao longo dos anos.**
+**Aqui você encontrará meus projetos e estudos que realizei ao longo dos anos.**
 
 ---
 
@@ -18,3 +17,7 @@
 |![HTML5](https://icongr.am/devicon/html5-original-wordmark.svg?size=29&color=currentColor) |
 |![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=29&color=currentColor) |
 |![CSS3](https://icongr.am/devicon/css3-original-wordmark.svg?size=29&color=currentColor) |
+
+---
+
+[![HitCount](http://hits.dwyl.com/hugocorreaa/{project}.svg)](http://hits.dwyl.com/hugocorreaa/{project})
