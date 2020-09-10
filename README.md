@@ -17,3 +17,6 @@
 |![HTML5](https://icongr.am/devicon/html5-original-wordmark.svg?size=29&color=currentColor) |
 |![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=29&color=currentColor) |
 |![CSS3](https://icongr.am/devicon/css3-original-wordmark.svg?size=29&color=currentColor) |
+
+
+[![HitCount](http://hits.dwyl.com/hugocorreaa/{project}.svg)](http://hits.dwyl.com/hugocorreaa/{project})
