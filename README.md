@@ -2,7 +2,6 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/hugocorreaa?label=Follow&style=social)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=hugocorreaa.hugocorreaa)
-
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 **Aqui você encontrará meus projetos e estudos que realizei ao longo dos anos.**
