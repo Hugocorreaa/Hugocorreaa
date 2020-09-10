@@ -1,4 +1,4 @@
-# Oi, me chamo Hugo Corrêa![neo](https://img.icons8.com/color/48/000000/neo.png)                               
+# Oi, Me chamo Hugo Corrêa! ![neo](https://img.icons8.com/color/48/000000/neo.png)                               
 
 
 **Aqui você encontrará meus projetos e estudos que realizei ao longo dos anos.**
