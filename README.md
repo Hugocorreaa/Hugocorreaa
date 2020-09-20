@@ -20,7 +20,7 @@
 |Linguagem  |  Nível de conhecimento  |
 |   :---:      |    :---:     |
 |![Python](https://img.icons8.com/color/29/000000/python.png) | _**Básico**_
-|![HTML5](https://icongr.am/devicon/html5-original-wordmark.svg?size=29&color=currentColor) |
+|![HTML5](https://icongr.am/devicon/html5-original-wordmark.svg?size=29&color=currentColor) | _**Básico**_
 |![CSS3](https://icongr.am/devicon/css3-original-wordmark.svg?size=29&color=currentColor) |
 |![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=29&color=currentColor) |
 
