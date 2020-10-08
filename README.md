@@ -15,14 +15,12 @@
 ![webdev](https://img.icons8.com/carbon-copy/30/000000/developer.png) Começando minha jornada como **_Web Developer_**
  
 
-- **Aprendendo**
+- **Languages and Tools:**
 
-|Linguagem  |  Nível de conhecimento  |
-|   :---:      |    :---:     |
-|![Python](https://img.icons8.com/color/29/000000/python.png) | _**Básico**_
-|![HTML5](https://icongr.am/devicon/html5-original-wordmark.svg?size=29&color=currentColor) | _**Básico**_
-|![CSS3](https://icongr.am/devicon/css3-original-wordmark.svg?size=29&color=currentColor) |
-|![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=29&color=currentColor) |
+![Python](https://img.icons8.com/color/29/000000/python.png)
+![HTML5](https://icongr.am/devicon/html5-original-wordmark.svg?size=29&color=currentColor)
+![CSS3](https://icongr.am/devicon/css3-original-wordmark.svg?size=29&color=currentColor)
+![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=29&color=currentColor)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hugocorreaa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
