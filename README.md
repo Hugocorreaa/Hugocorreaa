@@ -11,9 +11,6 @@
 
 ![tec](https://img.icons8.com/color/30/000000/satellites.png) Cursando Bacharelado Interdisciplinar em Ciência e Tecnologia **| _UFRN_**
 
-![webdev](https://img.icons8.com/carbon-copy/30/000000/developer.png) Começando minha jornada como **_Web Developer_**
- 
-
 - **Languages and Tools:**
 
 ![Python](https://img.icons8.com/color/29/000000/python.png)
