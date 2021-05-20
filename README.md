@@ -4,7 +4,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/hugocorreaa?label=Follow&style=social)
 [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:luizcarlos_abbott@hotmail.com)](mailto:hugodemorais@live.com)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=hugocorreaa.hugocorreaa)
-[![HitCount](http://hits.dwyl.com/hugocorreaa/{project}.svg)](http://hits.dwyl.com/hugocorreaa/{project})
+(http://hits.dwyl.com/hugocorreaa/{project})
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 **Aqui você encontrará meus projetos e estudos que realizei ao longo dos anos.**
