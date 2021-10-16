@@ -16,8 +16,9 @@
 ![CSS3](https://icongr.am/devicon/css3-original-wordmark.svg?size=29&color=currentColor)
 ![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=29&color=currentColor)
 ![SASS](https://icongr.am/devicon/sass-original.svg?size=29&color=currentColor)
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="29" height="29"/><br>
 ![Python](https://img.icons8.com/color/29/000000/python.png)
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="29" height="29"/>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hugocorreaa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
