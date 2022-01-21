@@ -17,7 +17,7 @@
 ![SASS](https://icongr.am/devicon/sass-original.svg?size=29&color=currentColor)
 ![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=29&color=currentColor)
 ![ReactJS](https://icongr.am/devicon/react-original-wordmark.svg?size=29&color=currentColor)
-![NodeJS](https://icongr.am/devicon/nodejs-original-wordmark.svg?size=29&color=currentColor)
+![NodeJS](https://icongr.am/devicon/nodejs-original.svg?size=29&color=currentColor)
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="29" height="29"/><br>
 ![Python](https://img.icons8.com/color/29/000000/python.png)
 
