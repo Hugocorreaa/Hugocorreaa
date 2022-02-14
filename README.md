@@ -24,9 +24,10 @@
 ## 🔧&nbsp;&nbsp;&nbsp;Currently working on...
 <table>
   <tr>
-    <td><a href="https://github.com/Hugocorreaa/shopping"><img src="https://github-readme-stats.vercel.app/api/pin/?username=macabeus&repo=klo-gba.js" /></a></td>
+    <td><a href="https://github.com/Hugocorreaa/shopping"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Hugocorreaa&repo=shopping" /></a></td>
     <td>E-commerce with ReactJs</td>
   </tr>
+</table>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hugocorreaa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
