@@ -6,8 +6,6 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=hugocorreaa.hugocorreaa)
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
-
-
 ![tec](https://img.icons8.com/color/30/000000/satellites.png) Cursando Bacharelado Interdisciplinar em Ciência e Tecnologia **| _UFRN_**
 
 - **Languages and Tools:**
@@ -28,8 +26,6 @@
     <td>E-commerce with ReactJs</td>
   </tr>
 </table>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hugocorreaa&layout=compact)](https://github.com/Hugocorreaa/github-readme-stats)
 
-
-<hr>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hugocorreaa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
