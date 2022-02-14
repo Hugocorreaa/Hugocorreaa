@@ -22,7 +22,11 @@
 ![Python](https://img.icons8.com/color/29/000000/python.png)
 
 ## 🔧&nbsp;&nbsp;&nbsp;Currently working on...
-- <strong><a href="https://github.com/Hugocorreaa/shopping">e-commerce with ReactJs</a>:</strong>
+<table>
+  <tr>
+    <td><a href="https://github.com/Hugocorreaa/shopping"><img src="https://github-readme-stats.vercel.app/api/pin/?username=macabeus&repo=klo-gba.js" /></a></td>
+    <td>E-commerce with ReactJs</td>
+  </tr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hugocorreaa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
