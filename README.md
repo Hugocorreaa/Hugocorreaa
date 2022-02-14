@@ -21,6 +21,8 @@
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="29" height="29"/><br>
 ![Python](https://img.icons8.com/color/29/000000/python.png)
 
+## 🔧&nbsp;&nbsp;&nbsp;Currently working on...
+- <strong><a href="https://github.com/Hugocorreaa/shopping">e-commerce with ReactJs</a>:</strong>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hugocorreaa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
