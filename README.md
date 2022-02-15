@@ -23,7 +23,7 @@
 <table>
   <tr>
     <td><a href="https://github.com/Hugocorreaa/shopping"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Hugocorreaa&repo=shopping" /></a></td>
-    <td><ul><li>:wrench:Learning react redux</li></u></td>
+    <td>:wrench:Implementing react redux</td>
   </tr>
 </table>
 
