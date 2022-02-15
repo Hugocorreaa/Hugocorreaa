@@ -23,7 +23,10 @@
 <table>
   <tr>
     <td><a href="https://github.com/Hugocorreaa/shopping"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Hugocorreaa&repo=shopping" /></a></td>
-    <td>:wrench:Implementing react redux</td>
+    <td>
+      [x] Adding local storage<br>
+      [ ] Implementing react redux
+    </td>
   </tr>
     <tr>
     <td><a href="https://github.com/Hugocorreaa/nft-landing"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Hugocorreaa&repo=nft-landing" /></a></td>
