@@ -30,7 +30,7 @@
   </tr>
     <tr>
     <td><a href="https://github.com/Hugocorreaa/nft-landing"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Hugocorreaa&repo=nft-landing" /></a></td>
-    <td>[ ] Responsivety </td>
+    <td>[ ] Responsivity </td>
   </tr>
 </table>
 
